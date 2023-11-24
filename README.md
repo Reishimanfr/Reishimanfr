@@ -2,8 +2,12 @@
 
 I'm a aspiring developer from Poland 🌟 mainly working with backend mainly using [`typescript`]() as my language of choice.
 
-- 🔭 I'm currently working on my discord bot [The world machine](https://github.com/Reishimanfr/TWM-bot)
-- 🌱 I'm currently learning `go` and more advanced `typescript`
+## Languages
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Project
+- 🤖 My discord bot [The world machine](https://github.com/Reishimanfr/TWM-bot)
 
 ## How to reach me
 - <img src="https://github.com/SapphDevelopment/discord-icons/blob/main/Discord%20Branding/Clyde/icon_clyde_blurple_RGB.png?raw=true" alt="" width=25 heigth=25>: [@rei.shi](https://discord.com/users/844684172421496882)
