@@ -1,6 +1,6 @@
 ### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=reishimanfr" alt="" align="center" />
 
-I'm a aspiring developer from Poland 🌟 mainly working with backend mainly using [`typescript`]() as my language of choice.
+I'm a aspiring developer from Poland passionate about backend mainly using [`typescript`]() as my language of choice.
 
 ## Languages
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -8,6 +8,7 @@ I'm a aspiring developer from Poland 🌟 mainly working with backend mainly usi
 
 ## Project
 - 🤖 My discord bot [The world machine](https://github.com/Reishimanfr/TWM-bot)
+- A shop website prototype written in react (Private repo)
 
 ## How to reach me
 - <img src="https://github.com/SapphDevelopment/discord-icons/blob/main/Discord%20Branding/Clyde/icon_clyde_blurple_RGB.png?raw=true" alt="" width=25 heigth=25>: [@rei.shi](https://discord.com/users/844684172421496882)
