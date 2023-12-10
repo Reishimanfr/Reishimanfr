@@ -15,7 +15,7 @@ I'm a aspiring developer from Poland passionate about backend mainly using [`typ
 
 ## How to reach me
 - <img src="https://github.com/SapphDevelopment/discord-icons/blob/main/Discord%20Branding/Clyde/icon_clyde_blurple_RGB.png?raw=true" alt="" width=25 heigth=25>: [@rei.shi](https://discord.com/users/844684172421496882)
-- <img src="" alt="" width=25 height=25>: [@reishimanfr](https://twitter.com/reishimanfr)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="" width=25 height=25>: [@reishimanfr](https://twitter.com/reishimanfr)
 
 ### ✨ Some profile stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reishimanfr&show_icons=true&theme=radical)
