@@ -5,7 +5,10 @@ I'm a aspiring developer from Poland passionate about backend mainly using [`typ
 ## Languages
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- 
+
+## Currently learning
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ## Project
 - 🤖 My discord bot [The world machine](https://github.com/Reishimanfr/TWM-bot)
 - A shop website prototype written in react (Private repo)
