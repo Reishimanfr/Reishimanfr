@@ -20,7 +20,7 @@ I'm an aspiring developer from Poland passionate about the backend mainly using 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-## Project
+## Some projects
 - 🤖 My discord bot [The world machine](https://github.com/Reishimanfr/TWM-bot)
 - A shop website prototype written in react (Private repo)
 
