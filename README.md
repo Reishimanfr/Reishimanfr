@@ -2,6 +2,10 @@
 
 I'm an aspiring developer from Poland passionate about the backend mainly using [`typescript`]() as my language of choice.
 
+<p align="center">
+  	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/844684172421496882?bg=1f1f1f">
+</p>
+
 <h1 align="center">Stuff I use</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
