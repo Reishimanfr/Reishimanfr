@@ -11,7 +11,7 @@
 <!--   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> -->
   <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-B7410E?style=flat-square&logo=rust&logoColor=white">
+<!--   <img alt="Rust (gave up on it lmfaooo)" src="https://img.shields.io/badge/-Rust-B7410E?style=flat-square&logo=rust&logoColor=white"> -->
 
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 <!--   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" /> -->
