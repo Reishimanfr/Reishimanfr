@@ -4,15 +4,15 @@
 </p>
 <h3>Things I code with</h3>
 <p>
+  <img alt="Golang" src="https://img.shields.io/badge/Golang-yuh?style=flat-square&logo=go&logoColor=white&color=00ADD8"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Biome" src="https://img.shields.io/badge/-Biome-00000?style=flat-square&logo=biome&logoColor=white">
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Bun" src="https://img.shields.io/badge/-Bun-F9F1E1?style=flat-square&logo=bun&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Golang" src="https://img.shields.io/badge/Golang-yuh?style=flat-square&logo=go&logoColor=white&color=00ADD8"/>
 
 <!--   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> -->
 <!--   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" /> -->
