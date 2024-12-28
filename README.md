@@ -1,27 +1,20 @@
+<h1>Welcome to my profile!</h1>
+
 <p>
-    <img width="50%" height="50%" align="right" alt="Discord presence" src="https://lanyard.cnrad.dev/api/844684172421496882">
-    Welcome to my page! </br> I'm Rei, a software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Poland</b>
+    I'm Nullptr, a software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Poland</b> passionate about backend and apps to improve the quality of life for people
 </p>
-<h3>Things I code with</h3>
-<h4>Languages</h4>
+<h2>Things I code with</h3>
 <p>
   <img alt="Golang" src="https://img.shields.io/badge/Golang-yuh?style=flat-square&logo=go&logoColor=white&color=00ADD8"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-</p>
-<h4>Editors/Helpful stuff</h4>
-<p>
-  <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Biome" src="https://img.shields.io/badge/-Biome-00000?style=flat-square&logo=biome&logoColor=white">
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-<h4>Currently learning</h4>
-<p>
-  <img alt="Golang" src="https://img.shields.io/badge/Golang-yuh?style=flat-square&logo=go&logoColor=white&color=00ADD8"/>
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-B7410E?style=flat-square&logo=rust&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-B7410E?style=flat-square&logo=rust&logoColor=white">
 </p>
 
+<!--   Other potentially useful stuff -->
 <!--   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> -->
 <!--   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" /> -->
 <!--   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> -->
@@ -42,14 +35,11 @@
 <!--   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> -->
 <!--   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />  -->
 <!--   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> -->
-
-</p>
-<br>
-<h3>Featured projects</h3>
+<h2>Projects I'm proud of</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -71,12 +61,17 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Reishimanfr/color-finer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Reishimanfr/color-finer?style=flat-square&labelColor=343b41"/></td>
     </tr>
-<!--     <tr>
-      <td><a href="https://github.com/Reishimanfr/The-World-Machine-Bot"><b>The world machine - A discord music bot</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Reishimanfr/The-World-Machine-Bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Reishimanfr/The-World-Machine-Bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Reishimanfr/The-World-Machine-Bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Reishimanfr/The-World-Machine-Bot?style=flat-square&labelColor=343b41"/></td>
-    </tr> -->
   </tbody>
 </table>
+
+<h2>Some profile stats:</h4>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=reishimanfr&show_icons=true&theme=nord" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reishimanfr&theme=nord&layout=compact" />
+</a>
+
+<a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=reishimanfr&theme=nord&langs_count=5"/>
+</a>
