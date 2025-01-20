@@ -11,7 +11,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-B7410E?style=flat-square&logo=rust&logoColor=white">
+<!--   <img alt="Rust" src="https://img.shields.io/badge/-Rust-B7410E?style=flat-square&logo=rust&logoColor=white"> -->
 </p>
 
 <!--   Other potentially useful stuff -->
