@@ -54,6 +54,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Reishimanfr/The-World-Machine-Bot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Reishimanfr/The-World-Machine-Bot?style=flat-square&labelColor=343b41"/></td>
     </tr>
+       <tr>
+          <td><a href="https://github.com/Reishimanfr/vxinstagram"><b>VxInstagram</b><a/></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/Reishimanfr/vxinstagram?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/Reishimanfr/vxinstagram?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/Reishimanfr/vxinstagram?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Reishimanfr/vxinstagram?style=flat-square&labelColor=343b41"/></td>
+      </tr>
       <tr>
           <td><a href="https://github.com/Reishimanfr/tipitipi-backend"><b>Tipitipi backend</b><a/></td>
           <td><img alt="Stars" src="https://img.shields.io/github/stars/Reishimanfr/tipitipi-backend?style=flat-square&labelColor=343b41"/></td>
@@ -61,13 +68,14 @@
           <td><img alt="Issues" src="https://img.shields.io/github/issues/Reishimanfr/tipitipi-backend?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Reishimanfr/tipitipi-backend?style=flat-square&labelColor=343b41"/></td>
       </tr>
-    </tr>
+   </tr>
      <tr>
       <td><a href="https://github.com/Reishimanfr/color-finer"><b>Color finder</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Reishimanfr/color-finer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Reishimanfr/color-finer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Reishimanfr/color-finer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Reishimanfr/color-finer?style=flat-square&labelColor=343b41"/></td>
+   
   </tbody>
 </table>
 
